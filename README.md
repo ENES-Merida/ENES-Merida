@@ -1,4 +1,6 @@
+<!--
 <a href="http://enesmerida.unam.mx/#/index"><img src="imagenes/enes-merida.png" style="height: 15%; width:15%;"/></a>
+-->
 # Departamento de Matemáticas Aplicadas y Computación
 
 <!--
