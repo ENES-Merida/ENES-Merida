@@ -1,7 +1,7 @@
 <!--
 <a href="http://enesmerida.unam.mx/#/index"><img src="imagenes/enes-merida.png" style="height: 15%; width:15%;"/></a>
 -->
-# Departamento de Matemáticas Aplicadas y Computación
+# Departamento de Matemáticas Aplicadas y Geociencias
 
 <!--
 **ENES-Merida/ENES-Merida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
