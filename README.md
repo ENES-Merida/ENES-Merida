@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ![](http://enesmerida.unam.mx/services/assets/files/archivos_tema/depto_matematicas_01_20210504095433.jpg)
-> **La finalidad del Departamento de Matemáticas Aplicadas y Computación (DMAC) es atender problemáticas socio-ambientales relacionadas con procesos físicos terrestres mediante el estudio y comprensión de sistemas oceánicos, del continente y de la atmósfera, así como sus interacciones e interrelaciones. Para lograr este fin, se busca desarrollar y aplicar herramientas computacionales de alto desempeño, así como de técnicas de monitoreo apoyadas en tecnologías emergentes para la generación de datos experimentales y mediciones en campo. El carácter multidisciplinario del departamento fomenta de forma natural sinergias tanto con grupos de investigación como con organizaciones y actores sociales.**
+> **La finalidad del Departamento de Matemáticas Aplicadas y Geociencias (DeMAG) es atender problemáticas socio-ambientales relacionadas con procesos físicos terrestres mediante el estudio y comprensión de sistemas oceánicos, del continente y de la atmósfera, así como sus interacciones e interrelaciones. Para lograr este fin, se busca desarrollar y aplicar herramientas computacionales de alto desempeño, así como de técnicas de monitoreo apoyadas en tecnologías emergentes para la generación de datos experimentales y mediciones en campo. El carácter multidisciplinario del departamento fomenta de forma natural sinergias tanto con grupos de investigación como con organizaciones y actores sociales.**
 
 #### Técnología con las que trabajamos:
 
